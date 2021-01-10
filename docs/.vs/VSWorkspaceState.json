@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\content\\explanations",
+    "\\content\\how-tos",
+    "\\generators",
+    "\\loaders"
+  ],
+  "SelectedNode": "\\generators\\lunr.fsx",
+  "PreviewInSolutionExplorer": false
+}
